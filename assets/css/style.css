@@ -65,7 +65,7 @@
     .sub-title_xiaomi-smart-pet-feeder-08 {font-size: 1rem; color: var(--title); text-align: center; padding: 1rem;}
 
     .title_xiaomi-smart-pet-feeder-01 {font-size: 2rem; color: var(--title); text-align: center; margin: 1rem 1rem 0rem 1rem;}
-    .sub-title_xiaomi-smart-pet-feeder-02 {font-size: 1rem; color: var(--title); line-height: 1.5rem; text-align: center; margin: 1rem 1rem 0rem 1rem;}
+    .sub-title_xiaomi-smart-pet-feeder-02-01 {font-size: 1rem; color: var(--title); line-height: 1.5rem; text-align: center; margin: 1rem 1rem 0rem 1rem;}
     .text_xiaomi-smart-pet-feeder-01 {font-size: 1rem; color: var(--tittle-gray); line-height: 1.5rem; text-align: center; margin: 1rem 1rem 0rem 1rem;}
 
     .notes_xiaomi-smart-pet-feeder {font-size: 0.8rem; line-height: 1.6rem; color: var(--tittle-gray); text-align: left; padding: 0rem 1rem 1rem 1rem;} 
@@ -96,7 +96,7 @@
     /*======================================================= LAYOUT =======================================================*/
 
     .bg_01 {
-        padding: 1rem;
+        padding: 2rem 1rem 2rem 1rem;
     }
 
     .bg_02 {
